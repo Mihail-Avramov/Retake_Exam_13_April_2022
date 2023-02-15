@@ -85,7 +85,7 @@ namespace TruffleHunter
                                 break;
                         }
 
-                        //currentValue = forest[currentRow, currentCol];
+                        currentValue = forest[currentRow, currentCol];
 
                         if (currentValue == 'B' || currentValue == 'S' || currentValue == 'W')
                         {
