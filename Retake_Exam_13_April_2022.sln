@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealPlan", "MealPlan\MealPlan.csproj", "{3431FADF-5EFE-40C1-A352-8DC1D1C81CCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruffleHunter", "TruffleHunter\TruffleHunter.csproj", "{4D892B7A-2ACD-412F-A068-C99E76FA3658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3431FADF-5EFE-40C1-A352-8DC1D1C81CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3431FADF-5EFE-40C1-A352-8DC1D1C81CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3431FADF-5EFE-40C1-A352-8DC1D1C81CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D892B7A-2ACD-412F-A068-C99E76FA3658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D892B7A-2ACD-412F-A068-C99E76FA3658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D892B7A-2ACD-412F-A068-C99E76FA3658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D892B7A-2ACD-412F-A068-C99E76FA3658}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
